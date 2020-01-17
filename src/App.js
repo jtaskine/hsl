@@ -37,7 +37,7 @@ function App() {
 
       <p>
         <a href="https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon">The Pokémon franchise</a> revolves around 832 fictional species of collectible monsters, each having unique designs and skills. Conceived by Satoshi Tajiri in early 1989, Pokémon are creatures that inhabit the fictional Pokémon World.
-        JOU VITTU HSL
+        JOU VITTU HSL se on kaqa
         
 </p>
       <div className="container">
